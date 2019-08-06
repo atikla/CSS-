@@ -1,0 +1,55 @@
+.one ,.two,.three{
+	color:#FFF;
+	padding:10px;
+	width:300px;
+	margin:10px;
+	float:left;
+
+}
+.one{
+	background:#F00;
+	/*color:#FFF;
+	padding:10px;
+	width:300px;
+	margin:10px;
+	float:left;*/
+}
+.two{
+	background:#00F;
+	float:right;
+	/*color:#FFF;
+	padding:10px;
+	width:300px;
+	margin:10px;
+	float:left;*/
+}
+.three{
+	background:#080;
+	/*
+	color:#FFF;
+	padding:10px;
+	width:300px;
+	margin:10px;
+	float:left;*/
+}
+.clear{
+	clear:both;
+}
+h1 , span , .new{
+	color:#080;
+}
+span{
+	font-weight:bold;
+
+}
+h1{
+	font-weight:bold;
+}
+.new{
+	padding:10px;
+	background:#FFF;
+	border:1px solid #00F;
+	font-weight:bold;
+
+}
+

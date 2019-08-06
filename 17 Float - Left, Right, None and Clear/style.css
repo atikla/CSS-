@@ -1,0 +1,16 @@
+.left{
+	width:300px;
+	background:#00F;
+	color:#FFF;
+	padding:10px;
+	float:left;
+	/*float:none;
+	float:rigth;*/
+	margin:10px;
+}
+.left span{
+	float:right;
+}
+.clear{
+	clear:both;
+}

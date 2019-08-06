@@ -1,0 +1,10 @@
+div{
+	background: #DDD;
+	padding:10px;
+	margin:10px;
+	border-width: 1px 2px 3px 4px /* Top Right Bottom Left*/
+	/*border-width: ;border-style: ;border-color: */
+	/*border: 1px solid #f00;
+	/*border-style: inset;*/
+	/*border-left: 1px solid #f00; right bottum top */
+}

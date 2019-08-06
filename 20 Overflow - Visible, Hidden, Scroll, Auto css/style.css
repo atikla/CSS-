@@ -1,0 +1,11 @@
+div{
+	width:120px;
+	height:100px;
+	background:#DDD;
+	padding:10px;
+	/*overflow:visible;
+	overflow:hidden;
+	overflow:scroll;*/
+	overflow:auto;
+
+}

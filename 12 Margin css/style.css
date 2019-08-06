@@ -1,0 +1,18 @@
+/*padding is for inside 
+margin is for outside*/
+*{
+	/*reset*/
+	margin:0px;
+	padding:0px;
+}
+div{
+	background:#00F;
+	color:#FFF;
+	margin:10px; /* 10px Top Right Bottom Left */
+	margin:10px 20px ;/* 10px 20px 10px 20px */
+	/*margin-top: 20px ;margin-right: 10px;
+	  margin-bottom:20px ;margin-left:20px*/
+	  width:400px;
+	  margin:auto;/*
+}
+

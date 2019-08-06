@@ -1,0 +1,19 @@
+div
+{
+    
+    background-color:red;
+    background-color:aqua;
+    background-color:azure;
+    background-color:coral;
+    background-color:#080;
+    background-color:rgba(255,0,0,0.2);
+    background-image:url('icon');
+    background-repeat:repeat;
+    background-repeat:repeat-x;
+    background-repeat:repeat-y;
+    background-attachment:fixed;
+    background-position:center right;
+    background-position:0% 0%;
+    background :none repeat-x fixed 10% 20% #080
+    
+}

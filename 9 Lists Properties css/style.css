@@ -1,0 +1,15 @@
+ul{
+	list-style-type:disc;
+	list-style-position:inside;
+	/*	list-style-position:outside;*/
+	list-style-image:url("bu.png"); ;
+
+}
+ul li{
+	border:1px solid #DDD
+}
+
+ul{
+	/*list-style: type position image (url(""))*/
+	list-style:disc outside url("bu.png");
+}

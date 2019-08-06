@@ -1,0 +1,51 @@
+div{
+    /* Div Properites */
+   
+    width:300px;
+    height:;
+    background:#DDD;
+    /* Text Properties */
+     Color:#00F; /* Color */
+    direction:ltr; /* direction:rtl*/ /* Text Dirction */
+    /*letter-spacing:15px; /* Space Betwen letters */
+    margin:20px ;
+    padding:10px;
+    line-height:2em; /* 10px ; 20px ; 100% ;200% ; 1em */
+    text-align:left;
+    text-indent:40px;
+     /* text-transform:capitalize; the first letter of
+     the word will be in capital case*/ 
+     /* text-transform:uppercase; all of this span will 
+     be uppercase*/
+     /*text-transform:lowercase;all of this span will 
+     be lowercase*/
+     /*white-space:nowrap; */
+
+}
+a{
+   /*text-decoration:none;*/
+    text-decoration:overline;
+}
+a:hover{
+    text-decoration:underline;
+}
+div span{
+    color:red;
+    text-decoration:line-through;
+}
+span.old{
+    text-decoration:line-through;
+    color:red;
+}
+span.new{
+    color:green;
+}
+span.cap{
+    text-transform:capitalize;
+}
+span.upper{
+    text-transform:uppercase;
+}
+span.lower{
+    text-transform:lowercase;
+}

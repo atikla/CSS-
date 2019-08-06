@@ -1,0 +1,12 @@
+div:before{
+	content:"hello i am here from Css";
+	color:#000;
+
+}
+div:after{
+	content:"hello i am here from Css";
+	color:#00f
+}
+div{
+	color:#080;
+}

@@ -1,0 +1,23 @@
+p{
+	/*font-family:tahoma*/
+	/*font-family:Arial*/
+	/*font-family:"Time New Roman"*/
+	/*font-family:Arial , Tahoma*/
+	/*font-family:"Comic Sans MS"*/
+	/*font-family:"Trebuchet MS";
+	font-style:italic;
+	font-size:16px; /*defult* = 100%/
+	/* font-size:xx-small x-small small medium large x-large
+	 xx-large; ;*/
+	 /*font-weight:bold;
+	 font-weight:normal;
+	 font-weight:bloder;
+	 font-weight:lighter;
+	 /* font : font_style / font-weight / font_size / line-height/ font family */;
+	font:italic bold 30px / 40px "Trebuchet MS";
+}  
+
+p span {
+	font-size:smaller;
+	/*font-size:larger;*/
+}

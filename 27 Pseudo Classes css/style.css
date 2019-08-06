@@ -1,0 +1,12 @@
+p:first-letter{
+	font-size:40px;
+	border-radius:13px;
+	background:#F00;
+}
+p:first-line{
+	color:#080;
+
+}
+div:first-child{
+	color:#080;
+}

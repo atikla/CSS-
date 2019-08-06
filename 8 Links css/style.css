@@ -1,0 +1,15 @@
+a{
+	color:#00f;
+	text-decoration:none;
+}
+a:hover{
+	color:#f00;
+	font-weight:bold;
+	text-decoration:line-through;
+
+}
+a:active{
+	color:#080;
+	text-decoration:none;
+	font-weight:normal;
+}

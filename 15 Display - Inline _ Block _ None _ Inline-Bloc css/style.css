@@ -1,0 +1,9 @@
+span , a ,img{
+	display:block;
+}
+p{
+	display:inline;
+}
+div{
+	display:none;
+}

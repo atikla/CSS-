@@ -1,0 +1,15 @@
+a[target="_blank"]
+{
+	color:#080;
+}
+img[title=image3]{
+	border-radius:20px;
+
+}
+input{
+	display:block;
+	margin:10px;
+}
+input[type="search"]{
+	color:#080;
+}
